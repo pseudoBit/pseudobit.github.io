@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://pseudobit.github.io
+url: https://pseudodreamer.github.io
 date_format: "ordinal"
 title: 普瑟多吉默
 subtitle: "PseudoDreamer"
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: pseudoBit/pseudobit.github.io
+repository: pseudoBit/pseudodreamer.github.io
 
 # ---------------- #
 #      Comments    #
