@@ -5,7 +5,7 @@ baseurl:
 url: https://pseudobit.github.io
 date_format: "ordinal"
 title: 普瑟多吉默
-subtitle: "Quantum"
+subtitle: "PseudoDreamer"
 description: "PseudoDreamer's blog"
 keywords: Quantum, Gravity, Machine Learning
 timezone: Asia/Guangdong
