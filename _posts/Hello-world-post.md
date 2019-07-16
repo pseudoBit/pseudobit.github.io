@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-categories: Init
+categories: New
 description: World, Hello
 keywords: New
 ---
