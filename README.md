@@ -1,1 +1,1 @@
-# My Personal Blog: [pseudobit.github.io/](https://pseudobit.github.io/)
+# My Personal Blog: [pseudobit.github.io](https://pseudobit.github.io/)
