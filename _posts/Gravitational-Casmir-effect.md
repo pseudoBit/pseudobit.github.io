@@ -1,3 +1,11 @@
+---
+layout: post
+title: Gravitational Casmir effect
+categories: QM, GR
+description:
+keywords: Casimir Effect, Graviton
+---
+
 ### Gravitational Casmir effect / James Q. Quach
 
 - Derive the gravitatonic Casmir effect with non-idealised boundary conditions.
